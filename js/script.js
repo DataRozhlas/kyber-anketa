@@ -15,7 +15,7 @@ function Rendruj(data, dodivu) {
 }
 
 $(document).ready(function() {
-  $.getJSON( "./../data/snemovna.json", function(data) {
+  $.getJSON("https://data.irozhlas.cz/kyber-anketa/data/snemovna.json", function(data) {
     Rendruj(data, "#anketa1");  
   });
 }); 

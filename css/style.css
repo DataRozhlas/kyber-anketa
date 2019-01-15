@@ -1,16 +1,12 @@
 #anketa1 {
-    overflow: hidden;
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
 div.respondent {
-  position: relative;
-  float: left;
-  width: 200px;
-  height: 400px;
-  padding: 0px 1px 0px 1px;
+  width: 200px; 
+  padding: 0px 1px 10px 1px;
   margin: 3px 1px 3px 1px;
   border-bottom: thin dotted lightgrey;
 }
