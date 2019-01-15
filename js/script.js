@@ -12,11 +12,6 @@ function Rendruj(data, dodivu) {
       if (this.o3) {$(".veta").last().append(" <span class='cislo' title='Kolik hesel na internetu používáte?'>3</span>" + this.o3)};
       if (this.o4) {$(".veta").last().append(" <span class='cislo' title='Používáte správce hesel?'>4</span>" + this.o4)};
      });
-  $('.veta').readmore({
-  		collapsedHeight: 140,
-  		lessLink: '<a href="#">Méně</a>',
-  		moreLink: '<a href="#">Více</a>',
-	});
 }
 
 $(document).ready(function() {
