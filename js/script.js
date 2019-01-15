@@ -4,7 +4,7 @@ import flexibility from "flexibility";
 function Rendruj(data, dodivu) {
   $(data).each(function(i) {
       $("<div class='respondent'></div>").appendTo(dodivu);
-      $(".respondent").last().append("<img class='portret' src='" + this.f + "'>");
+      $(".respondent").last().append("<img class='portret' src='https://data.irozhlas.cz/kyber-anketa/img/" + this.f + "'>");
       $(".respondent").last().append("<p class='jmeno'><strong>" + this.j + " " + this.p + "</strong>, " + this.s + "</p>");
       if (!this.o1) {$(".respondent").last().append("<p class='veta'><span class='bezodpovedi'>bez odpovědi</span>")};
       if (this.o1) {$(".respondent").last().append("<p class='veta'><span class='cislo' title='Použil/a jste někdy pracovní e-mail k soukromým účelům?'>1</span>" + this.o1 + "</p>")};
