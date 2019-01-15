@@ -43,9 +43,12 @@ V podobném duchu reagoval také šéf bezpečnostního výboru sněmovny Radek 
 <right>
 	
 <h3>UNIKLÉ E-MAILY A HESLA</h3>
-- Redakce nahlédla do obří databáze, která obsahuje miliony uniklých adres. Mezi nimi našla hned deset prominentních funkcionářů včetně poslance STAN Jana Farského nebo předsedy Nejvyššího soudu Pavla Šámala. Seznam také obsahuje přes čtyři tisíce e-mailů, které nesou adresu některého z ministerstev či dalších státních institucí.
-- U necelé tisícovky těchto e-mailů jsou pak uvedena i pravděpodobně znějící hesla. Ta ovšem nemusí nutně odemknout právě zmíněnou e-mailovou schránku. Může jít o heslo, které někdo společně s daným e-mailem použil třeba pro registraci na sociální síti nebo v e-shopu.
-- Hesla unikala ze služeb jako Dropbox nebo Adobe, část přihlašovacích údajů se ale na veřejnost dostala poté, co jednoho hackera naboural jiný a zveřejnil jeho databázi. K únikům tedy pravděpodobně nedocházelo ze státních systémů.
+
+<li>Redakce nahlédla do obří databáze, která obsahuje miliony uniklých adres. Mezi nimi našla hned deset prominentních funkcionářů včetně poslance STAN Jana Farského nebo předsedy Nejvyššího soudu Pavla Šámala. Seznam také obsahuje přes čtyři tisíce e-mailů, které nesou adresu některého z ministerstev či dalších státních institucí.</li>
+<br>
+<li>U necelé tisícovky těchto e-mailů jsou pak uvedena i pravděpodobně znějící hesla. Ta ovšem nemusí nutně odemknout právě zmíněnou e-mailovou schránku. Může jít o heslo, které někdo společně s daným e-mailem použil třeba pro registraci na sociální síti nebo v e-shopu.</li>
+<br>
+<li>Hesla unikala ze služeb jako Dropbox nebo Adobe, část přihlašovacích údajů se ale na veřejnost dostala poté, co jednoho hackera naboural jiný a zveřejnil jeho databázi. K únikům tedy pravděpodobně nedocházelo ze státních systémů.</li>
 
 </left>
 
