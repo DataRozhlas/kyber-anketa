@@ -1,39 +1,71 @@
-title: "Data z mobilů:<br>Praha se denně nafoukne o polovinu, v centru jsou návštěvníci v převaze"
-perex: "Skoro 140 tisíc lidí přijede do Prahy každý den za prací. Míří hlavně do kancelářských budov a do centra města. S nimi pak dorazí i přes půl milionu návštěvníků. Ukázala to analýza dat o pohybu mobilních telefonů, kterou si nyní město nechává zpracovat."
-published: "21. dubna 2018"
-coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
+title: "Jediné heslo i speciální sešítek. Jak se zákonodárci na internetu chrání proti útokům hackerů?"
+perex: "Někteří jich používají desítky včetně dvoufázového ověření. Mezi zákonodárci se ale najdou i tací, kteří mají přihlašovací heslo jediné. S ohledem na aféru v Německu, kde na internet utekly osobní údaje stovek politiků, se iROZHLAS.cz a Radiožurnál zeptaly tuzemských poslanců a senátorů, jak se chrání před hackery. Ani Česku se totiž masivní únik informací nevyhnul – obchoduje se s e-maily a hesly téměř tisícovky českých ministerských úředníků, politiků či pracovníků justice."
+published: "16. ledna 2019"
+coverimg: 
 coverimg_note: "Foto <a href='#'>ČTK</a>"
 styles: []
-libraries: [jquery, datatables] #jquery, d3, highcharts, datatables
-options: [noheader] #wide, noheader (, nopic)
+libraries: [jquery] #jquery, d3, highcharts, datatables
+options: [noheader, nopic] #wide, noheader (, nopic)
 ---
-<left>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
+
+„Pro své soukromé účely mám vlastní počítač i e-mail,“ uvedl v anketě serveru iROZHLAS.cz a Radiožurnálu například poslanec ANO Jiří Bláha. Podobně jako liberecký velkopekař na dotaz, zda poslaneckou e-mailovou adresu používá i pro soukromé účely, odpověděla také většina ostatních zákonodárců.
+
+I tady se ovšem najdou výjimky. Třeba šéf poslaneckého klubu komunistů Pavel Kováčik přiznal, že dříve pracovní e-mail k soukromým záležitostem využíval. „Kdysi ano. Ale já ho využívám obecně velmi zřídka,“ řekl. Podobně se vyjádřil také lidovecký senátor František Bradáč: „Služební e-mail občas použiju, na sociálně sítě a videa však ne.“
+
+Redakce oslovila všech 281 zákonodárců, odpovědi se podařilo získat od 181 z nich. V anketě zazněly následující dotazy:
+
+<strong>
+
+<span class="cislo">1</span>Použil/a jste někdy pracovní e-mail k soukromým účelům?
+
+<span class="cislo">2</span>Změnil/a jste v souvislosti s aférou v Německu své chování na internetu?
+
+<span class="cislo">3</span>Kolik hesel na internetu používáte?
+
+<span class="cislo">4</span>Používáte správce hesel?
+
+</strong>
+
+*Text článku pokračuje pod anketou.*
+
+
+<wide><h2>Poslanci</h2><div id="anketa1"></div></wide>
+
+
+
+
+<wide><h2>Senátoři</h2><div id="anketa2"></div></wide>
+
+
+Na kybernetickou bezpečnost se redakce ptala hlavně kvůli [aféře v Německu](https://www.irozhlas.cz/zpravy-svet/nemecko-parlament-hackersky-utok_1901041000_jak), kde se na internetu objevily osobní údaje a dokumenty stovek tamních politiků a známých osobností včetně adres, čísel kreditních karet či soukromé korespondence.
+
+Z dotazování vyplynulo, že čeští zákonodárci situaci u našeho souseda příliš neřešili. „I bez vazby na aféru v Německu se snažím o pravidelnou obměnu přístupových hesel,“ odpověděl například poslanec a místopředseda ODS Martin Kupka.
+
+V podobném duchu reagoval také šéf bezpečnostního výboru sněmovny Radek Koten z SPD: „Chovám se stále bezpečně.“ Naopak třeba senátorka Alena Dernerová (za SD–SN) si po německé aféře podle svých slov některá přístupová hesla změnila.
+
+<right>
+	
+<h3>UNIKLÉ E-MAILY A HESLA</h3>h3>
+- Redakce nahlédla do obří databáze, která obsahuje miliony uniklých adres. Mezi nimi našla hned deset prominentních funkcionářů včetně poslance STAN Jana Farského nebo předsedy Nejvyššího soudu Pavla Šámala. Seznam také obsahuje přes čtyři tisíce e-mailů, které nesou adresu některého z ministerstev či dalších státních institucí.
+- U necelé tisícovky těchto e-mailů jsou pak uvedena i pravděpodobně znějící hesla. Ta ovšem nemusí nutně odemknout právě zmíněnou e-mailovou schránku. Může jít o heslo, které někdo společně s daným e-mailem použil třeba pro registraci na sociální síti nebo v e-shopu.
+- Hesla unikala ze služeb jako Dropbox nebo Adobe, část přihlašovacích údajů se ale na veřejnost dostala poté, co jednoho hackera naboural jiný a zveřejnil jeho databázi. K únikům tedy pravděpodobně nedocházelo ze státních systémů.
+
 </left>
 
-Během dne se lidéx v Praze soustřeďují v okolí administrativních center a obchodů, po poledni se tak nejvíc zahustí okolí Andělu, centrum Prahy (Vodičkova ulice a Petrské náměstí) a Brumlovka nedaleko Budějovické. Na poslední jmenované adrese sídlí řada velkých korporací, mezi nimi i Microsoft nebo ČEZ. Pro srovnání, na zmíněných místech je ve „špičce“ okolo šesti stovek osob na jeden hektar, průměr Prahy je 25 obyvatel na [hektar](https://cs.wikipedia.org/wiki/Hektar) (Václavské náměstí má rozlohu asi 4 hektary).
+[K úniku e-mailů i hesel přitom došlo i mezi českými zákonodárci](https://www.irozhlas.cz/zpravy-domov/hesla-unik-mailu-farsky-hamacek-samal-hackeri-prihlasovaci-udaje_1901150555_cib). Přihlašovací údaje utekly u poslance STAN Jana Farského. Ten navíc [potvrdil, že uniklé heslo sedí](https://www.irozhlas.cz/zpravy-domov/jan-farsky-stan-poslanec-unik-e-mailu-a-hesel-kyberneticka-bezpecnost-hackeri_1901151404_jgr).
 
-Naopak v noci se nejvíc lidí se „namačká“ ve Vršovicích, jde o 430 osob na hektar.
+E-maily ale unikly i u šéfa poslaneckého klubu ČSSD Jana Chvojky, exministra zahraničí Lubomíra Zaorálka (ČSSD) a poslance ODS Jana Bauera. V jejich případě ale v uniklé databázi heslo nebylo uvedeno. Všichni na dotaz uvedli, že sněmovní e-mail nevyužívají k soukromým účelům.
 
-Detaily si můžete prohlédnout v následující mapě, kterou z dat mobilních operátorů zpracoval pražský [Institut plánování a rozvoje](http://www.iprpraha.cz/).
+## Až 47 hesel
 
-<wide><i>Pokud vás zajímá, kolik lidí bývá ve dne a v noci ve vaší čtvrti, najděte si ji na mapě, přepněte se na časové řezy, vyberte přepínač hustota osob a potom pohybujte posuvníkem nahoře.</i></wide>
+Zákonodárci odpovídali také na dotaz, kolik na internetu používají hesel. Zatímco třeba senátor Jaroslav Doubrava se slovy „to neřeknu“ odmítl vzhledem k bezpečnosti odpovědět, někteří byli vstřícnější. „Pro každou aplikaci mám jiné heslo, osm znaků včetně velkých a malých písmen a číslovek,“ řekl třeba poslanec Leo Luzar z KSČM.
 
-## Data na prodej
-<right>
-	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
-	</p>
-</right>
+Více hesel používá také senátorka KDU-ČSL Jaromíra Vítková, která má na jejich zapamatování i zvláštní systém. „Na hesla mám speciální sešítek,“ popsala. Podobně je na tom i její kolega z dolní komory Pavel Pawlas: „Těch hesel je hodně, takže mám ta hesla napsaná ve zvláštním sešítku, který mám uložený doma.“
 
-I pokud netelefonujeme nebo neposíláme SMS, telefon pravidelně komunikuje s vysílači v síti mobilního operátora. Z dat o síle signálu a použité anténě je možné odvodit, kde se přibližně telefon nachází a jak dlouhou dobu na místě strávil.
+Ovšem rekordmanem v počtu hesel je zřejmě pirátský poslanec Radek Holomčík, který podle svých používá 11 hesel hned v 47 mutacích. Mezi zákonodárci se ale najdou i tací, kteří používají pouze jediné heslo. To je poslanec ANO Pavel Plzák nebo senátor ČSSD Karel Kratochvíl.
 
-Mobilní operátor má [zákonnou povinnost](https://www.zakonyprolidi.cz/cs/2005-127/zneni-20160919#p97-3) takové informace uchovávat, a to půl roku do minulosti, přistupovat k nim ale mohou jen bezpečnostní složky, typicky policie nebo rozvědka.
+Samostatný dotaz tvořila dále otázka na používání správce hesel. Jde o program, který pro uživatele tvoří unikátní hesla a zároveň je bezpečně uchovává. Kladná odpověď se objevila nejčastěji u Pirátů. „Používám lokální aplikaci a opět zaheslovanou, nikoli prohlížečovou,“ napsal v SMS šéf strany Ivan Bartoš.
 
-Operátoři ale obdobné informace mohou anonymizovat (tedy zbavit identifikace konkrétního uživatele) a agregovat, tedy spojit informace o jednotlivcích do jakýchsi skupin. Výsledná obecná čísla pak přeprodávají dál, například marketingovým firmám či dopravním analytikům. Zpětně z nich nejde dovodit, kde se pohybuje každý jednotlivec, dávají ale určitý přehled o obecném chování obyvatel nějakého místa.
+I mezi nimi se ale najdou výjimky. „U všech důležitých přístupů používám dvoufázové ověření,“ uvedl například pirátský poslanec Lukáš Kolářík, který správce hesel nepoužívá.
+
+Část poslanců zároveň na dotazy nechtěla odpovědět právě kvůli ochraně před možnými útoky hackerů. „Právě z důvodu internetové bezpečnosti s dovolením ponechávám vaše otázky bez odpovědi,“ uvedl například poslanec ČSSD Roman Sklenák.
