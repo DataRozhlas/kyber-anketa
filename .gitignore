@@ -1,2 +1,5 @@
 node_modules/
 .Rproj.user
+.DS_Store
+img/senatori_original/
+img/poslanci_original/

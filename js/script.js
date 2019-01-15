@@ -18,5 +18,9 @@ $(document).ready(function() {
   $.getJSON("https://data.irozhlas.cz/kyber-anketa/data/snemovna.json", function(data) {
     Rendruj(data, "#anketa1");  
   });
+  $.getJSON("https://data.irozhlas.cz/kyber-anketa/data/senat.json", function(data) {
+    Rendruj(data, "#anketa2");
+  }); 
   flexibility(document.getElementById("anketa1"));
+  flexibility(document.getElementById("anketa2"));
 }); 
