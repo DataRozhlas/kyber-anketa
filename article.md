@@ -31,8 +31,7 @@ Redakce oslovila všech 281 zákonodárců, odpovědi se podařilo získat od 18
 
 <wide><h2>Poslanci</h2><div id="anketa1"></div></wide>
 
-
-
+<br>
 
 <wide><h2>Senátoři</h2><div id="anketa2"></div></wide>
 
